@@ -1,0 +1,51 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #E5F6E5;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #25D366;
+  padding: 1em;
+  text-align: center;
+  color: white;
+}
+.images {
+  display: flex;
+  justify-content: space-around;
+  margin: 1em;
+}
+.images img {
+  border-radius: 10px;
+  width: 30%;
+}
+.intro, .donations, .projets {
+  padding: 1em;
+}
+.buttons {
+  text-align: center;
+  margin: 2em 0;
+}
+.btn {
+  background-color: #25D366;
+  color: white;
+  text-decoration: none;
+  padding: 0.75em 1.5em;
+  border-radius: 10px;
+  margin: 0.5em;
+  display: inline-block;
+}
+.btn:hover {
+  background-color: #1DA851;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+li {
+  background-color: white;
+  margin: 0.5em 0;
+  padding: 1em;
+  border-radius: 10px;
+}
