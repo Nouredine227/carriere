@@ -1,5 +1,3 @@
 [
-  { "nom": "Abdou Mayaki", "montant": 15000 },
-  { "nom": "Fatou Bako", "montant": 10000 },
-  { "nom": "Ibrahim Sani", "montant": 25000 }
+  { "nom": "Abdou Mayaki", "montant": 0 }
 ]
