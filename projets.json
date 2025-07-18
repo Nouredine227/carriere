@@ -1,5 +1,4 @@
 [
-  { "titre": "Forage d'eau", "etat": "en cours", "montant": 500000 },
-  { "titre": "Rénovation école", "etat": "fini", "montant": 300000 },
-  { "titre": "Éclairage public", "etat": "à venir", "montant": 250000 }
+  { "titre": "Remblage du quartier", "etat": "à venir", "montant": 180000 },
+{ "titre": "Canalisation d'eau de pluie et eaux usé", "etat": "à venir", "montant": 100000 }
 ]
