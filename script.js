@@ -1,8 +1,8 @@
 
 // Lien fictif à remplacer par le lien direct OneDrive
 const montantUrl = "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mODg4Y2IxMTIxODk1NGFlL0VmMERIOGNYdEhoTGxaMmxrMU5ZTVBzQjhIQWUxZ3RVQTN2RF9nV3lFLTB4amc&cid=F888CB11218954AE&id=F888CB11218954AE%21sc71f03fdb4174b78959da593535830fb&parId=F888CB11218954AE%21s4e8a541b36b94a41b3d8fdbcdc07b3da&o=OneUp";
-const donateursUrl = "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mODg4Y2IxMTIxODk1NGFlL0VmRHN2cFlxakxSRm4yYW9mWDBuRUNrQnB5MWF1SGZHUmZSd25LTGRwSzNfTVE&cid=F888CB11218954AE&id=F888CB11218954AE%21s96beecf08c2a45b49f66a87d7d271029&parId=F888CB11218954AE%21s4e8a541b36b94a41b3d8fdbcdc07b3da&o=OneUp";
-const projetsUrl = "https://1drv.ms/u/c/f888cb11218954ae/EXF829e24zhLh2rlGm0ii7ABiZH24wyu9kHGQfuD_8WfTg";
+const donateursUrl = "donateurs.json";
+const projetsUrl = "projets.json";
 
 document.addEventListener("DOMContentLoaded", () => {
   if (document.getElementById("montantTotal")) {
